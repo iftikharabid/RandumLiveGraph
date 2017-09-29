@@ -5,6 +5,7 @@ import numpy as np
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
+import multiprocessing
 
 
 if __name__ == "__main__":
